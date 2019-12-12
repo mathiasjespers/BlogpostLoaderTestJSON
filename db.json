@@ -1,5 +1,5 @@
 {"web-app": {
-  "modules": [
+  "blogposts": [
     {
       "id": 1,
       "title": "Spaghetti Festijn",
