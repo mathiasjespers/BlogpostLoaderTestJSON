@@ -1,0 +1,35 @@
+{"web-app": {
+  "modules": [
+    {
+      "id": 1,
+      "title": "Spaghetti Festijn",
+      "date": "06/03/1998",
+      "content": "An easy calendar add-on to track your events"
+    },
+    {
+      "id": 2,
+      "title": "Spaghetti Festijn",
+      "date": "06/03/1998",
+      "content": "An easy calendar add-on to track your events"
+    },
+    {
+      "id": 3,
+      "title": "Spaghetti Festijn",
+      "date": "06/03/1998",
+      "content": "An easy calendar add-on to track your events"
+    },
+    {
+      "id": 4,
+      "title": "Spaghetti Festijn",
+      "date": "06/03/1998",
+      "content": "An easy calendar add-on to track your events"
+    },
+    {
+      "id": 5,
+      "title": "Spaghetti Festijn",
+      "date": "06/03/1998",
+      "content": "An easy calendar add-on to track your events"
+    }
+  ]
+}
+}
