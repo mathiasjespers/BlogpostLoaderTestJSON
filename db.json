@@ -3,31 +3,36 @@
     {
       "id": 1,
       "title": "Spaghetti Festijn",
-      "date": "06/03/1998",
+      "month": "3",
+      "year": "2009",
       "content": "An easy calendar add-on to track your events"
     },
     {
       "id": 2,
       "title": "Spaghetti Festijn 2",
-      "date": "06/03/1998",
+      "month": "6",
+      "year": "2009",
       "content": "An easy calendar add-on to track your events"
     },
     {
       "id": 3,
       "title": "Spaghetti Festijn 3",
-      "date": "06/03/1998",
+      "month": "7",
+      "year": "2009",
       "content": "An easy calendar add-on to track your events"
     },
     {
       "id": 4,
       "title": "Spaghetti Festijn 4",
-      "date": "06/03/1998",
+        "month": "1",
+      "year": "20010",
       "content": "An easy calendar add-on to track your events"
     },
     {
       "id": 5,
       "title": "Spaghetti Festijn van Karel",
-      "date": "06/03/1998",
+      "month": "12",
+      "year": "2012",
       "content": "An easy calendar add-on to track your events"
     }
   ]
